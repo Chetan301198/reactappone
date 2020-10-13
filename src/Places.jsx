@@ -18,6 +18,7 @@ const Places = () =>{
               )
             })}
           </div>
+          <div>hello</div>
         </>    
       )
 }
