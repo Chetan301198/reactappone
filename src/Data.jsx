@@ -1,6 +1,6 @@
 import mimg from './images/manchu-pinchu.jpg'
 import himg from './images/hawaii.jpg'
-import simg from './images/sydney.jpg'
+// import simg from './images/sydney.jpg'
 import maimg from './images/maldives.jpg'
 import pimg from './images/petra.jpg'
 import bimg from './images/bali.jpg'
@@ -25,7 +25,7 @@ const Data = [{
     link : "https://en.wikipedia.org/wiki/Las_Vegas"
 },
 {
-    img :simg,
+    // img :simg,
     title :"Sydney",
     para : "Sydney is known around the world as one of the greatest and most iconic cities on the planet.",
     link : "https://en.wikipedia.org/wiki/Sydney"
